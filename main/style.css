@@ -1,0 +1,18 @@
+body{
+    background-size: 100%;
+    background: black url('https://c1.staticflickr.com/1/264/20282399858_f8e0beb243_o.jpg') no-repeat;
+    background-blend-mode: screen;
+    color: hsl(210, 100%, 40%);;
+}
+
+p {
+    background-color: hsl(210, 100%, 40%);
+    border: solid hsl(42, 11%, 72%) 10px;
+}
+
+h1{
+    font-family: "Utah State Athletics";
+    color: hsl(0, 25%, 80%);
+}
+ul
+{color: orange}

@@ -8,7 +8,7 @@ html, div, object, iframe, fieldset {
 	margin: 0; 
 	padding: 0;
 	border: 0;
-    background-color: #bbb4ac;
+    background: lightgrey;
 }
 body{
     display: block;
@@ -20,7 +20,7 @@ body{
     max-width: 1080px;
     width: 85%;
     min-height: 1000px;
-    background-color: #9c958d;
+    background-color: darkgrey;
     color: white;
 }
 ol, ul { 
@@ -71,18 +71,6 @@ h1,h2,h3,h4,h5{
 legend {
 	display: none;
 }
-/************End Reset**************/
-
-
-/******Media Queries*******/
-
-@media all and (min-width:40em) {
-
-}
-
-@media screen and (min-width: 68em) {
-
-}
 
 @font-face {
     font-family: USUAthletics;
@@ -90,6 +78,9 @@ legend {
 }
 
 @media screen and (max-width: 751px){
+    header{
+        height: 5%;
+    }
     body{
         width: 100%;
     }

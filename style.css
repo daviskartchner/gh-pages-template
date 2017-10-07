@@ -20,7 +20,7 @@ body{
     max-width: 1080px;
     width: 85%;
     min-height: 1000px;
-    background-color: #9c958d;
+    background: data/usubull.png;
     color: white;
 }
 ol, ul { 

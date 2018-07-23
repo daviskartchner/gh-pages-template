@@ -14,7 +14,6 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -36,8 +35,6 @@ blockquote, q {
 }
 
 blockquote:before, blockquote:after, q:before, q:after {
-	content: '';
-	content: none;
 }
 
 table {
@@ -64,21 +61,21 @@ body {
 	margin-right: auto;
 }
 
-.container.\31 25\25 {
+.container.\3125\25 {
 					 width: 100%;
 					 max-width: 100rem;
 					 min-width: 80rem;
 				 }
 
-.container.\37 5\25 {
+.container.\375\25 {
 					width: 60rem;
 				}
 
-.container.\35 0\25 {
+.container.\350\25 {
 					width: 40rem;
 				}
 
-.container.\32 5\25 {
+.container.\325\25 {
 					width: 20rem;
 				}
 
@@ -88,21 +85,21 @@ body {
 
 @media screen and (max-width: 1680px) {
 
-	.container.\31 25\25 {
+	.container.\3125\25 {
 						 width: 100%;
 						 max-width: 100rem;
 						 min-width: 80rem;
 					 }
 
-	.container.\37 5\25 {
+	.container.\375\25 {
 						width: 60rem;
 					}
 
-	.container.\35 0\25 {
+	.container.\350\25 {
 						width: 40rem;
 					}
 
-	.container.\32 5\25 {
+	.container.\325\25 {
 						width: 20rem;
 					}
 
@@ -114,7 +111,7 @@ body {
 
 @media screen and (max-width: 1280px) {
 
-	.container.\31 25\25 {
+	.container.\3125\25 {
 						 width: 100%;
 						 max-width: 81.25rem;
 						 min-width: 65rem;
@@ -124,15 +121,15 @@ body {
 		font-size: 50pt !important;
 	}
 
-	.container.\37 5\25 {
+	.container.\375\25 {
 						width: 48.75rem;
 					}
 
-	.container.\35 0\25 {
+	.container.\350\25 {
 						width: 32.5rem;
 					}
 
-	.container.\32 5\25 {
+	.container.\325\25 {
 						width: 16.25rem;
 					}
 
@@ -149,21 +146,21 @@ and (-webkit-device-pixel-ratio : 3) {h2{font-size: 15pt;}}
 
 @media screen and (max-width: 980px) {
 
-	.container.\31 25\25 {
+	.container.\3125\25 {
 						 width: 100%;
 						 max-width: 112.5%;
 						 min-width: 90%;
 					 }
 
-	.container.\37 5\25 {
+	.container.\375\25 {
 						width: 67.5%;
 					}
 
-	.container.\35 0\25 {
+	.container.\350\25 {
 						width: 45%;
 					}
 
-	.container.\32 5\25 {
+	.container.\325\25 {
 						width: 22.5%;
 					}
 
@@ -175,21 +172,21 @@ and (-webkit-device-pixel-ratio : 3) {h2{font-size: 15pt;}}
 
 @media screen and (max-width: 736px) {
 
-	.container.\31 25\25 {
+	.container.\3125\25 {
 						 width: 100%;
 						 max-width: 112.5%;
 						 min-width: 90%;
 					 }
 
-	.container.\37 5\25 {
+	.container.\375\25 {
 						width: 67.5%;
 					}
 
-	.container.\35 0\25 {
+	.container.\350\25 {
 						width: 45%;
 					}
 
-	.container.\32 5\25 {
+	.container.\325\25 {
 						width: 22.5%;
 					}
 
@@ -201,21 +198,21 @@ and (-webkit-device-pixel-ratio : 3) {h2{font-size: 15pt;}}
 
 @media screen and (max-width: 480px) {
 
-	.container.\31 25\25 {
+	.container.\3125\25 {
 						 width: 100%;
 						 max-width: 112.5%;
 						 min-width: 90%;
 					 }
 
-	.container.\37 5\25 {
+	.container.\375\25 {
 						width: 67.5%;
 					}
 
-	.container.\35 0\25 {
+	.container.\350\25 {
 						width: 45%;
 					}
 
-	.container.\32 5\25 {
+	.container.\325\25 {
 						width: 22.5%;
 					}
 
@@ -257,19 +254,19 @@ and (-webkit-device-pixel-ratio : 3) {h2{font-size: 15pt;}}
 }
 
 .row.\30 \25 > * {
-	padding: 0 0 0 0rem;
+	padding: 0 0 0 0;
 }
 
 .row.\30 \25 {
-	margin: 0 0 -1px 0rem;
+	margin: 0 0 -1px 0;
 }
 
 .row.uniform.\30 \25 > * {
-	padding: 0rem 0 0 0rem;
+	padding: 0 0 0 0;
 }
 
 .row.uniform.\30 \25 {
-	margin: 0rem 0 -1px 0rem;
+	margin: 0 0 -1px 0;
 }
 
 .row > * {
@@ -288,83 +285,83 @@ and (-webkit-device-pixel-ratio : 3) {h2{font-size: 15pt;}}
 	margin: -2rem 0 -1px -2rem;
 }
 
-.row.\32 00\25 > * {
+.row.\3200\25 > * {
 			   padding: 0 0 0 4rem;
 		   }
 
-.row.\32 00\25 {
+.row.\3200\25 {
 			   margin: 0 0 -1px -4rem;
 		   }
 
-.row.uniform.\32 00\25 > * {
+.row.uniform.\3200\25 > * {
 					   padding: 4rem 0 0 4rem;
 				   }
 
-.row.uniform.\32 00\25 {
+.row.uniform.\3200\25 {
 					   margin: -4rem 0 -1px -4rem;
 				   }
 
-.row.\31 50\25 > * {
+.row.\3150\25 > * {
 			   padding: 0 0 0 3rem;
 		   }
 
-.row.\31 50\25 {
+.row.\3150\25 {
 			   margin: 0 0 -1px -3rem;
 		   }
 
-.row.uniform.\31 50\25 > * {
+.row.uniform.\3150\25 > * {
 					   padding: 3rem 0 0 3rem;
 				   }
 
-.row.uniform.\31 50\25 {
+.row.uniform.\3150\25 {
 					   margin: -3rem 0 -1px -3rem;
 				   }
 
-.row.\35 0\25 > * {
+.row.\350\25 > * {
 			  padding: 0 0 0 1rem;
 		  }
 
-.row.\35 0\25 {
+.row.\350\25 {
 			  margin: 0 0 -1px -1rem;
 		  }
 
-.row.uniform.\35 0\25 > * {
+.row.uniform.\350\25 > * {
 					  padding: 1rem 0 0 1rem;
 				  }
 
-.row.uniform.\35 0\25 {
+.row.uniform.\350\25 {
 					  margin: -1rem 0 -1px -1rem;
 				  }
 
-.row.\32 5\25 > * {
+.row.\325\25 > * {
 			  padding: 0 0 0 0.5rem;
 		  }
 
-.row.\32 5\25 {
+.row.\325\25 {
 			  margin: 0 0 -1px -0.5rem;
 		  }
 
-.row.uniform.\32 5\25 > * {
+.row.uniform.\325\25 > * {
 					  padding: 0.5rem 0 0 0.5rem;
 				  }
 
-.row.uniform.\32 5\25 {
+.row.uniform.\325\25 {
 					  margin: -0.5rem 0 -1px -0.5rem;
 				  }
 
-.\31 2u, .\31 2u\24 {
+.\312u, .\312u\24 {
 				   width: 100%;
 				   clear: none;
 				   margin-left: 0;
 			   }
 
-.\31 1u, .\31 1u\24 {
+.\311u, .\311u\24 {
 				   width: 91.6666666667%;
 				   clear: none;
 				   margin-left: 0;
 			   }
 
-.\31 0u, .\31 0u\24 {
+.\310u, .\310u\24 {
 				   width: 83.3333333333%;
 				   clear: none;
 				   margin-left: 0;
@@ -424,9 +421,9 @@ and (-webkit-device-pixel-ratio : 3) {h2{font-size: 15pt;}}
 	margin-left: 0;
 }
 
-.\31 2u\24 + *,
-	  .\31 1u\24 + *,
-			.\31 0u\24 + *,
+.\312u\24 + *,
+	  .\311u\24 + *,
+			.\310u\24 + *,
 				  .\39 u\24 + *,
 				  .\38 u\24 + *,
 				  .\37 u\24 + *,
@@ -501,83 +498,83 @@ and (-webkit-device-pixel-ratio : 3) {h2{font-size: 15pt;}}
 		margin: -2rem 0 -1px -2rem;
 	}
 
-	.row.\32 00\25 > * {
+	.row.\3200\25 > * {
 				   padding: 0 0 0 4rem;
 			   }
 
-	.row.\32 00\25 {
+	.row.\3200\25 {
 				   margin: 0 0 -1px -4rem;
 			   }
 
-	.row.uniform.\32 00\25 > * {
+	.row.uniform.\3200\25 > * {
 						   padding: 4rem 0 0 4rem;
 					   }
 
-	.row.uniform.\32 00\25 {
+	.row.uniform.\3200\25 {
 						   margin: -4rem 0 -1px -4rem;
 					   }
 
-	.row.\31 50\25 > * {
+	.row.\3150\25 > * {
 				   padding: 0 0 0 3rem;
 			   }
 
-	.row.\31 50\25 {
+	.row.\3150\25 {
 				   margin: 0 0 -1px -3rem;
 			   }
 
-	.row.uniform.\31 50\25 > * {
+	.row.uniform.\3150\25 > * {
 						   padding: 3rem 0 0 3rem;
 					   }
 
-	.row.uniform.\31 50\25 {
+	.row.uniform.\3150\25 {
 						   margin: -3rem 0 -1px -3rem;
 					   }
 
-	.row.\35 0\25 > * {
+	.row.\350\25 > * {
 				  padding: 0 0 0 1rem;
 			  }
 
-	.row.\35 0\25 {
+	.row.\350\25 {
 				  margin: 0 0 -1px -1rem;
 			  }
 
-	.row.uniform.\35 0\25 > * {
+	.row.uniform.\350\25 > * {
 						  padding: 1rem 0 0 1rem;
 					  }
 
-	.row.uniform.\35 0\25 {
+	.row.uniform.\350\25 {
 						  margin: -1rem 0 -1px -1rem;
 					  }
 
-	.row.\32 5\25 > * {
+	.row.\325\25 > * {
 				  padding: 0 0 0 0.5rem;
 			  }
 
-	.row.\32 5\25 {
+	.row.\325\25 {
 				  margin: 0 0 -1px -0.5rem;
 			  }
 
-	.row.uniform.\32 5\25 > * {
+	.row.uniform.\325\25 > * {
 						  padding: 0.5rem 0 0 0.5rem;
 					  }
 
-	.row.uniform.\32 5\25 {
+	.row.uniform.\325\25 {
 						  margin: -0.5rem 0 -1px -0.5rem;
 					  }
 
-	.\31 2u\28xlarge\29, .\31 2u\24\28xlarge\29 {
+	.\312u\28xlarge\29, .\312u\24\28xlarge\29 {
 								   width: 100%;
 								   clear: none;
 								   margin-left: 0;
 							   }
 
-	.\31 1u\28xlarge\29, .\31 1u\24\28xlarge\29 {
+	.\311u\28xlarge\29, .\311u\24\28xlarge\29 {
 								   width: 91.6666666667%;
 								   clear: none;
 								   margin-left: 0;
 							   }
 
-	.\31 0u\28xlarge\29, .\31 0u\24\28xlarge\29 {
+	.\310u\28xlarge\29, .\310u\24\28xlarge\29 {
 								   width: 83.3333333333%;
 								   clear: none;
 								   margin-left: 0;
@@ -637,9 +634,9 @@ and (-webkit-device-pixel-ratio : 3) {h2{font-size: 15pt;}}
 		margin-left: 0;
 	}
 
-	.\31 2u\24\28xlarge\29 + *,
-		  .\31 1u\24\28xlarge\29 + *,
-				.\31 0u\24\28xlarge\29 + *,
+	.\312u\24\28xlarge\29 + *,
+		  .\311u\24\28xlarge\29 + *,
+				.\310u\24\28xlarge\29 + *,
 					  .\39 u\24\28xlarge\29 + *,
 					  .\38 u\24\28xlarge\29 + *,
 					  .\37 u\24\28xlarge\29 + *,
@@ -716,83 +713,83 @@ and (-webkit-device-pixel-ratio : 3) {h2{font-size: 15pt;}}
 		margin: -1.5rem 0 -1px -1.5rem;
 	}
 
-	.row.\32 00\25 > * {
+	.row.\3200\25 > * {
 				   padding: 0 0 0 3rem;
 			   }
 
-	.row.\32 00\25 {
+	.row.\3200\25 {
 				   margin: 0 0 -1px -3rem;
 			   }
 
-	.row.uniform.\32 00\25 > * {
+	.row.uniform.\3200\25 > * {
 						   padding: 3rem 0 0 3rem;
 					   }
 
-	.row.uniform.\32 00\25 {
+	.row.uniform.\3200\25 {
 						   margin: -3rem 0 -1px -3rem;
 					   }
 
-	.row.\31 50\25 > * {
+	.row.\3150\25 > * {
 				   padding: 0 0 0 2.25rem;
 			   }
 
-	.row.\31 50\25 {
+	.row.\3150\25 {
 				   margin: 0 0 -1px -2.25rem;
 			   }
 
-	.row.uniform.\31 50\25 > * {
+	.row.uniform.\3150\25 > * {
 						   padding: 2.25rem 0 0 2.25rem;
 					   }
 
-	.row.uniform.\31 50\25 {
+	.row.uniform.\3150\25 {
 						   margin: -2.25rem 0 -1px -2.25rem;
 					   }
 
-	.row.\35 0\25 > * {
+	.row.\350\25 > * {
 				  padding: 0 0 0 0.75rem;
 			  }
 
-	.row.\35 0\25 {
+	.row.\350\25 {
 				  margin: 0 0 -1px -0.75rem;
 			  }
 
-	.row.uniform.\35 0\25 > * {
+	.row.uniform.\350\25 > * {
 						  padding: 0.75rem 0 0 0.75rem;
 					  }
 
-	.row.uniform.\35 0\25 {
-						  margin: -0.75rem 0 -1px -0.75rem;
+	.row.uniform.\350\25 {
+					  margin: -0.75rem 0 -1px -0.75rem;
 					  }
 
-	.row.\32 5\25 > * {
+	.row.\325\25 > * {
 				  padding: 0 0 0 0.375rem;
 			  }
 
-	.row.\32 5\25 {
+	.row.\325\25 {
 				  margin: 0 0 -1px -0.375rem;
 			  }
 
-	.row.uniform.\32 5\25 > * {
+	.row.uniform.\325\25 > * {
 						  padding: 0.375rem 0 0 0.375rem;
 					  }
 
-	.row.uniform.\32 5\25 {
+	.row.uniform.\325\25 {
 						  margin: -0.375rem 0 -1px -0.375rem;
 					  }
 
-	.\31 2u\28large\29, .\31 2u\24\28large\29 {
+	.\312u\28large\29, .\312u\24\28large\29 {
 								  width: 100%;
 								  clear: none;
 								  margin-left: 0;
 							  }
 
-	.\31 1u\28large\29, .\31 1u\24\28large\29 {
+	.\311u\28large\29, .\311u\24\28large\29 {
 								  width: 91.6666666667%;
 								  clear: none;
 								  margin-left: 0;
 							  }
 
-	.\31 0u\28large\29, .\31 0u\24\28large\29 {
+	.\310u\28large\29, .\310u\24\28large\29 {
 								  width: 83.3333333333%;
 								  clear: none;
 								  margin-left: 0;

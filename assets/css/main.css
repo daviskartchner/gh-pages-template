@@ -3713,7 +3713,9 @@ body.subpage {
 		opacity: 1;
 	}
 }
-
+header{
+	text-shadow: black;
+}
 #header {
 	background: rgba(0, 0, 0, 0.975);
 	color: #a6a6a6;

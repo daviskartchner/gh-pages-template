@@ -116,10 +116,6 @@ body {
 						 min-width: 65rem;
 					 }
 
-	h2{
-		font-size: 100pt !important;
-	}
-
 	.container.\375\25 {
 						width: 48.75rem;
 					}
@@ -138,10 +134,7 @@ body {
 
 }
 
-@media only screen
-and (device-width : 375px)
-and (device-height : 812px)
-and (-webkit-device-pixel-ratio : 3) {h2{font-size: 12pt !important;}}
+
 
 @media screen and (max-width: 980px) {
 
@@ -166,6 +159,7 @@ and (-webkit-device-pixel-ratio : 3) {h2{font-size: 12pt !important;}}
 	.container {
 		width: 90%;
 	}
+h2{font-size: 30pt !important;}
 
 }
 
@@ -192,6 +186,7 @@ and (-webkit-device-pixel-ratio : 3) {h2{font-size: 12pt !important;}}
 	.container {
 		width: 90% !important;
 	}
+h2{font-size: 24pt !important;}
 
 }
 
@@ -218,9 +213,12 @@ and (-webkit-device-pixel-ratio : 3) {h2{font-size: 12pt !important;}}
 	.container {
 		width: 90% !important;
 	}
+h2{font-size: 18pt !important;}
 
 }
+@media only screen and (max-width : 375px)
 
+{h2{font-size: 14pt !important;}}
 /* Grid */
 
 .row {
@@ -1689,7 +1687,7 @@ p.special:after {
 
 h2.tooTall{
 	line-height:1 !important;
-}
+	}
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 300;
 	line-height: 2;

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="890c113d-564a-4668-8696-e78560a6fee2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,11 +20,11 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="468">
-                  <caret line="158" column="18" lean-forward="true" selection-start-line="158" selection-start-column="18" selection-end-line="158" selection-end-column="18" />
+                <state relative-caret-position="972">
+                  <caret line="72" column="14" lean-forward="true" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
                   <folding>
                     <element signature="n#style#0;n#p#0;n#header#0;n#div#0;n#article#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="e#4827#4833#0" expanded="true" />
+                    <element signature="e#4837#4843#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -450,7 +449,8 @@
     <MESSAGE value="Removed the elements menu item, added blog menu item. Blog is currently blank." />
     <MESSAGE value="Added link to drill pics" />
     <MESSAGE value="fixed font sizing" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed font sizing" />
+    <MESSAGE value="added linkedin button, decreased h2 size for 980-1280px wide windows" />
+    <option name="LAST_COMMIT_MESSAGE" value="added linkedin button, decreased h2 size for 980-1280px wide windows" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -463,7 +463,7 @@
           <caret line="98" column="18" lean-forward="false" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#p#0;n#header#0;n#div#0;n#article#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4827#4833#0" expanded="true" />
+            <element signature="e#4837#4843#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -490,7 +490,7 @@
           <caret line="77" column="23" lean-forward="true" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
           <folding>
             <element signature="n#style#0;n#p#0;n#header#0;n#div#0;n#article#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4827#4833#0" expanded="true" />
+            <element signature="e#4837#4843#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -517,7 +517,7 @@
           <caret line="46" column="20" lean-forward="false" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#p#0;n#header#0;n#div#0;n#article#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4827#4833#0" expanded="true" />
+            <element signature="e#4837#4843#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -536,7 +536,7 @@
           <caret line="46" column="20" lean-forward="false" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#p#0;n#header#0;n#div#0;n#article#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4827#4833#0" expanded="true" />
+            <element signature="e#4837#4843#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -555,7 +555,7 @@
           <caret line="46" column="20" lean-forward="false" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#p#0;n#header#0;n#div#0;n#article#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4827#4833#0" expanded="true" />
+            <element signature="e#4837#4843#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -644,11 +644,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="158" column="18" lean-forward="true" selection-start-line="158" selection-start-column="18" selection-end-line="158" selection-end-column="18" />
+        <state relative-caret-position="972">
+          <caret line="72" column="14" lean-forward="true" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#p#0;n#header#0;n#div#0;n#article#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4827#4833#0" expanded="true" />
+            <element signature="e#4837#4843#0" expanded="true" />
           </folding>
         </state>
       </provider>

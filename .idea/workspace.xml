@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="890c113d-564a-4668-8696-e78560a6fee2" name="Default" comment="Complete revamp from the ground-up. Taking site down in the meantime." />
+    <list default="true" id="890c113d-564a-4668-8696-e78560a6fee2" name="Default" comment="Complete revamp from the ground-up. Taking site down in the meantime.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrollex.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/skel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/util.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,7 +262,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582091837128</updated>
-      <workItem from="1582091854209" duration="2071000" />
+      <workItem from="1582091854209" duration="2408000" />
     </task>
     <task id="LOCAL-00001" summary="removed find on social media banner">
       <created>1582093723994</created>
@@ -278,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582093924541</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Complete revamp from the ground-up. Taking site down in the meantime.">
+      <created>1582093933220</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582093933220</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,14 +329,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Complete revamp from the ground-up. Taking site down in the meantime." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="901" y="214" key="CommitChangelistDialog2" timestamp="1582093922957">
+    <state x="1010" y="453" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582094103338">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="901" y="214" key="CommitChangelistDialog2/0.0.2560.1410/-1024.151.1024.1250/2560.240.1920.1050@0.0.2560.1410" timestamp="1582093922957" />
-    <state x="872" y="420" key="Vcs.Push.Dialog.v2" timestamp="1582093881845">
+    <state x="1010" y="453" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1410/-1024.151.1024.1250/2560.240.1920.1050@0.0.2560.1410" timestamp="1582094103338" />
+    <state x="901" y="214" key="CommitChangelistDialog2" timestamp="1582093931589">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="872" y="420" key="Vcs.Push.Dialog.v2/0.0.2560.1410/-1024.151.1024.1250/2560.240.1920.1050@0.0.2560.1410" timestamp="1582093881845" />
+    <state x="901" y="214" key="CommitChangelistDialog2/0.0.2560.1410/-1024.151.1024.1250/2560.240.1920.1050@0.0.2560.1410" timestamp="1582093931589" />
+    <state x="872" y="420" key="Vcs.Push.Dialog.v2" timestamp="1582093934558">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="872" y="420" key="Vcs.Push.Dialog.v2/0.0.2560.1410/-1024.151.1024.1250/2560.240.1920.1050@0.0.2560.1410" timestamp="1582093934558" />
   </component>
   <component name="masterDetails">
     <states>

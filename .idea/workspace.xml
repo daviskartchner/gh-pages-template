@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="890c113d-564a-4668-8696-e78560a6fee2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/theWoodster.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newSite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="890c113d-564a-4668-8696-e78560a6fee2" name="Default" comment="Complete revamp from the ground-up. Taking site down in the meantime." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -257,8 +248,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582091837128</updated>
-      <workItem from="1582091854209" duration="1830000" />
+      <workItem from="1582091854209" duration="2071000" />
     </task>
+    <task id="LOCAL-00001" summary="removed find on social media banner">
+      <created>1582093723994</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582093723994</updated>
+    </task>
+    <task id="LOCAL-00002" summary="removed find on social media banner">
+      <created>1582093833679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582093833679</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Complete revamp from the ground-up. Taking site down in the meantime.">
+      <created>1582093876798</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582093876798</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Complete revamp from the ground-up. Taking site down in the meantime.">
+      <created>1582093924541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582093924541</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,13 +304,14 @@
     <MESSAGE value="fixed font sizing" />
     <MESSAGE value="added linkedin button, decreased h2 size for 980-1280px wide windows" />
     <MESSAGE value="removed find on social media banner" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed find on social media banner" />
+    <MESSAGE value="Complete revamp from the ground-up. Taking site down in the meantime." />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete revamp from the ground-up. Taking site down in the meantime." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="901" y="214" key="CommitChangelistDialog2" timestamp="1582093875578">
+    <state x="901" y="214" key="CommitChangelistDialog2" timestamp="1582093922957">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="901" y="214" key="CommitChangelistDialog2/0.0.2560.1410/-1024.151.1024.1250/2560.240.1920.1050@0.0.2560.1410" timestamp="1582093875578" />
+    <state x="901" y="214" key="CommitChangelistDialog2/0.0.2560.1410/-1024.151.1024.1250/2560.240.1920.1050@0.0.2560.1410" timestamp="1582093922957" />
     <state x="872" y="420" key="Vcs.Push.Dialog.v2" timestamp="1582093881845">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>

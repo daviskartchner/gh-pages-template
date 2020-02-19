@@ -24,7 +24,7 @@ body{
         padding-top: 525px;
     }
 }
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1081px) {
     .construction {
         padding-top: 450px;
     }

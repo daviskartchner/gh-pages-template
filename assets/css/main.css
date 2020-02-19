@@ -1,12 +1,58 @@
 .construction{
     color: #dddddd;
     text-align: center;
-    padding-top: 500px;
+}
+h4{
+    color: #dddddd !important;
 }
 body{
     background-color: #222222;
 }
 
+@media only screen and (max-width: 3840px) {
+    .construction {
+        padding-top: 950px;
+    }
+}
+@media only screen and (max-width: 2560px) {
+    .construction {
+        padding-top: 625px;
+    }
+}
+@media only screen and (max-width: 1920px) {
+    .construction {
+        padding-top: 525px;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .construction {
+        padding-top: 450px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .construction {
+        padding-top: 400px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .construction {
+        padding-top: 350px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .construction {
+        padding-top: 300px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .construction {
+        padding-top: 250px;
+    }
+}
 
 
 

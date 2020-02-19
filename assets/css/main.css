@@ -11,40 +11,34 @@ body{
 
 @media only screen and (max-width: 3840px) {
     .construction {
-        padding-top: 950px;
+        padding-top: 925px;
     }
 }
 @media only screen and (max-width: 2560px) {
     .construction {
-        padding-top: 625px;
+        padding-top: 600px;
     }
 }
 @media only screen and (max-width: 1920px) {
     .construction {
-        padding-top: 525px;
+        padding-top: 450px;
     }
 }
 @media only screen and (max-width: 1081px) {
     .construction {
-        padding-top: 450px;
+        padding-top: 425px;
     }
 }
 
 @media only screen and (max-width: 800px) {
     .construction {
-        padding-top: 400px;
+        padding-top: 375px;
     }
 }
 
 @media only screen and (max-width: 600px) {
     .construction {
-        padding-top: 350px;
-    }
-}
-
-@media only screen and (max-width: 550px) {
-    .construction {
-        padding-top: 300px;
+        padding-top: 325px;
     }
 }
 
@@ -55,16 +49,14 @@ body{
 }
 
 
-
-
 /*
 These are for the loading icon
  */
 .lds-ripple {
        display: inline-block;
        position: relative;
-       width: 80px;
-       height: 80px;
+       width: 105px;
+       height: 105px;
    }
 .lds-ripple div {
     position: absolute;
@@ -78,8 +70,8 @@ These are for the loading icon
 }
 @keyframes lds-ripple {
     0% {
-        top: 36px;
-        left: 36px;
+        top: 50px;
+        left: 50px;
         width: 0;
         height: 0;
         opacity: 1;
@@ -87,8 +79,8 @@ These are for the loading icon
     100% {
         top: 0px;
         left: 0px;
-        width: 72px;
-        height: 72px;
+        width: 100px;
+        height: 100px;
         opacity: 0;
     }
 }

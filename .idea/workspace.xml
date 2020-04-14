@@ -154,6 +154,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -386,11 +387,12 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="1010" y="453" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1410/-1024.151.1024.1250/2560.240.1920.1050@0.0.2560.1410" timestamp="1582094103338" />
-    <state x="307" y="146" width="1484" height="1135" key="CommitChangelistDialog2" timestamp="1582155581843">
-      <screen x="0" y="0" width="1536" height="960" />
+    <state x="86" y="0" width="2474" height="1410" key="CommitChangelistDialog2" timestamp="1586842070192">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="307" y="146" key="CommitChangelistDialog2/0.0.1536.960@0.0.1536.960" timestamp="1582155581843" />
     <state x="512" y="214" width="1484" height="1135" key="CommitChangelistDialog2/0.0.2560.1410/-1024.151.1024.1250/2560.240.1920.1050@0.0.2560.1410" timestamp="1582098241085" />
+    <state x="86" y="0" width="2474" height="1410" key="CommitChangelistDialog2/0.0.2560.1410/2560.143.1920.1050@0.0.2560.1410" timestamp="1586842070192" />
     <state x="636" y="304" key="FileChooserDialogImpl" timestamp="1582231391005">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
@@ -464,10 +466,11 @@
       <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state x="277" y="123" key="SettingsEditor/0.0.1536.960@0.0.1536.960" timestamp="1582231392770" />
-    <state x="872" y="420" key="Vcs.Push.Dialog.v2" timestamp="1582098243647">
+    <state x="872" y="420" key="Vcs.Push.Dialog.v2" timestamp="1586841935934">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="872" y="420" key="Vcs.Push.Dialog.v2/0.0.2560.1410/-1024.151.1024.1250/2560.240.1920.1050@0.0.2560.1410" timestamp="1582098243647" />
+    <state x="872" y="420" key="Vcs.Push.Dialog.v2/0.0.2560.1410/2560.143.1920.1050@0.0.2560.1410" timestamp="1586841935934" />
     <state x="1087" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582096268437">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="890c113d-564a-4668-8696-e78560a6fee2" name="Default" comment="Complete revamp from the ground-up. Taking site down in the meantime.">
-      <change beforePath="$PROJECT_DIR$/.idea/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/desktop.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/desktop.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newSite.html" beforeDir="false" afterPath="$PROJECT_DIR$/newSite.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,27 +16,6 @@
         <option value="HTML File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>br</find>
-      <find>fa-twitter</find>
-      <find>screen</find>
-      <find>screen and</find>
-      <find>icon</find>
-      <find>title</find>
-      <find>h2</find>
-      <find>menu</find>
-      <find>@media</find>
-      <find>section</find>
-      <find>learn more</find>
-      <find>elements</find>
-      <find>s</find>
-      <find>header</find>
-      <find>region 5</find>
-      <find>pic02</find>
-      <find>tootall</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -147,7 +124,9 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -260,6 +239,7 @@
       <workItem from="1582155324082" duration="1667000" />
       <workItem from="1582322899684" duration="309000" />
       <workItem from="1583870666904" duration="297000" />
+      <workItem from="1586841886117" duration="715000" />
     </task>
     <task id="LOCAL-00001" summary="removed find on social media banner">
       <created>1582093723994</created>
@@ -345,7 +325,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582098242098</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Complete revamp from the ground-up. Taking site down in the meantime.">
+      <created>1586841932727</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1586841932727</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Complete revamp from the ground-up. Taking site down in the meantime.">
+      <created>1586842082776</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1586842082776</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,6 +356,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added very basic header" />
     <MESSAGE value="Themeing" />
     <MESSAGE value="Bug removal in CSS file" />
@@ -387,12 +382,12 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="1010" y="453" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1410/-1024.151.1024.1250/2560.240.1920.1050@0.0.2560.1410" timestamp="1582094103338" />
-    <state x="86" y="0" width="2474" height="1410" key="CommitChangelistDialog2" timestamp="1586842070192">
+    <state x="86" y="0" width="2474" height="1410" key="CommitChangelistDialog2" timestamp="1586842081832">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="307" y="146" key="CommitChangelistDialog2/0.0.1536.960@0.0.1536.960" timestamp="1582155581843" />
     <state x="512" y="214" width="1484" height="1135" key="CommitChangelistDialog2/0.0.2560.1410/-1024.151.1024.1250/2560.240.1920.1050@0.0.2560.1410" timestamp="1582098241085" />
-    <state x="86" y="0" width="2474" height="1410" key="CommitChangelistDialog2/0.0.2560.1410/2560.143.1920.1050@0.0.2560.1410" timestamp="1586842070192" />
+    <state x="86" y="0" width="2474" height="1410" key="CommitChangelistDialog2/0.0.2560.1410/2560.143.1920.1050@0.0.2560.1410" timestamp="1586842081832" />
     <state x="636" y="304" key="FileChooserDialogImpl" timestamp="1582231391005">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
@@ -466,11 +461,11 @@
       <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state x="277" y="123" key="SettingsEditor/0.0.1536.960@0.0.1536.960" timestamp="1582231392770" />
-    <state x="872" y="420" key="Vcs.Push.Dialog.v2" timestamp="1586841935934">
+    <state x="872" y="420" key="Vcs.Push.Dialog.v2" timestamp="1586842084939">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="872" y="420" key="Vcs.Push.Dialog.v2/0.0.2560.1410/-1024.151.1024.1250/2560.240.1920.1050@0.0.2560.1410" timestamp="1582098243647" />
-    <state x="872" y="420" key="Vcs.Push.Dialog.v2/0.0.2560.1410/2560.143.1920.1050@0.0.2560.1410" timestamp="1586841935934" />
+    <state x="872" y="420" key="Vcs.Push.Dialog.v2/0.0.2560.1410/2560.143.1920.1050@0.0.2560.1410" timestamp="1586842084939" />
     <state x="1087" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582096268437">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
